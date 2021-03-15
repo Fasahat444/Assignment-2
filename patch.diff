@@ -1,0 +1,16 @@
+--- file1.txt	2021-03-14 20:52:42.284065000 -0700
++++ file2.txt	2021-03-14 20:57:49.046684900 -0700
+@@ -1,6 +1,6 @@
+-Hello World
+-Name of colour
+-Black
+-Pink
+-Sky blue
+-
++Hello World
++Name of colour
++Black 
++Pink
++Sky blue
++Red
+\ No newline at end of file
